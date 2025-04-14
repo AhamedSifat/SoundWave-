@@ -14,7 +14,7 @@ SoundWave is a full-featured music streaming application inspired by Spotify, of
 - 👀 See what others are listening to in real-time
 - 📊 Analytics page with aggregate user data
 - 🔐 Authentication & Authorization using **Clerk**
-- 🌈 Sleek, responsive UI built with **TailwindCSS** & **DaisyUI**
+- 🌈 Sleek, responsive UI built with **TailwindCSS** & **shadcn**
 
 ---
 
@@ -24,7 +24,7 @@ SoundWave is a full-featured music streaming application inspired by Spotify, of
 
 - React.js
 - TailwindCSS
-- DaisyUI
+- Shadcn
 - Zustand (for state management)
 - Socket.io-client
 - Clerk (Authentication)
